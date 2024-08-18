@@ -1,1 +1,3 @@
 # Paper-Publication
+Design of a Monitoring System for Smart Dustbin using IOT     
+The paper titled "Design of a Monitoring System for Smart Dustbin using IoT", published in the IETE MTS 2021 conference, focuses on the development of a smart dustbin system that operates automatically through commands sent via a smartphone. This project was specifically designed during the lockdown period to enhance safety and hygiene. The smart dustbin can be utilized in various locations, offering a hands-free solution to waste management, thereby reducing the risk of contamination and promoting a cleaner environment.
